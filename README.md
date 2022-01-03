@@ -2,7 +2,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fpatelm.visitor-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fpatelm&show_icons=true)
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpatelm&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fpatelm&theme=dark" /></td>
+  </tr>   
+</table>
+</center>
 
 - 🔭 I’m currently working on flutter app integration with .net core signal r
 - 🌱 I’m currently learning .net core with signal r
