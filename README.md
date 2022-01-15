@@ -2,6 +2,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fpatelm.visitor-badge)
 
+![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner.jpg)
+
+
 <center>
 <table>
   <tr>
