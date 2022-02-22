@@ -4,7 +4,7 @@
 
 ![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner.jpg)
 <p align="center">
-  <a href="https://www.youtube.com/keynotecast" style="color:red;">---> Youtube Channel <---</a>
+  <a href="https://www.youtube.com/keynotecast" target="_blank">---> Youtube Channel <---</a>
 </p>
 <center>
   <table>
