@@ -3,15 +3,16 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fpatelm.visitor-badge)
 
 ![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner.jpg)
-![Faizal](https://github.com/fpatelm/fpatelm/blob/main/certs-01.jpg)
-
+<p align="center">
+  <a href="https://www.youtube.com/keynotecast" style="color:red;">---> Youtube Channel <---</a>
+</p>
 <center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpatelm&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fpatelm&theme=dark" /></td>
-  </tr>   
-</table>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpatelm&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fpatelm&theme=dark" /></td>
+    </tr>   
+  </table>
 </center>
 
 - 🔭 I’m currently working on flutter app integration with .net core signal r
