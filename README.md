@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fpatelm.visitor-badge)
-
+![Faizal](https://github.com/fpatelm/fpatelm/blob/main/certs-01.jpg)
 ![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner.jpg)
+
+
+
 <p align="center">
   <a href="https://www.youtube.com/keynotecast">--> Youtube Channel <--</a>
 </p>
