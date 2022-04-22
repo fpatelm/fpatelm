@@ -9,7 +9,6 @@
   <a href="https://www.youtube.com/keynotecast">--> Youtube Channel <--</a>
 </p>
   
-<a href="https://www.buymeacoffee.com/keynotecast" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
 <center>
   <table>
