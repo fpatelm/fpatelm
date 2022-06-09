@@ -64,10 +64,10 @@
 
 <h3>Salesforce tutorials</h3>
 <ul>
-  <li><a href="https://youtu.be/vY3-MEsROtw"><b>Field Level Security in Salesforce</b></a><br/><i>I will focus on Data Security and specifically on Control Access to Fields, commonly known as FLS (Field Level Security in Salesforce).
+  <li><a href="https://youtu.be/vY3-MEsROtw"><b>Field Level Security in Salesforce</b></a><br/><i>Focus on Data Security and specifically on Control Access to Fields, commonly known as FLS (Field Level Security in Salesforce).
 </i></li>
   
-<li><a href="https://youtu.be/bwuHbyGEu4Y"><b>Control Access to Objects in Salesforce</b></a><br/><i>I will focus on Data Security and specifically on Control Access to Objects in Salesforce.</i></li>
+<li><a href="https://youtu.be/bwuHbyGEu4Y"><b>Control Access to Objects in Salesforce</b></a><br/><i>Focus on Data Security and specifically on Control Access to Objects in Salesforce.</i></li>
  
 </ul>
 
