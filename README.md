@@ -54,7 +54,7 @@
 
 <h3>My top most viewed tutorials</h3>
 <ul>
-  <li><a href="https://youtu.be/ua9AfnGvP3Q"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Flutter Firebase Phone Number Authentication</b></a><br/><i>You will learn to verify phone number using Flutter Firebase Authentication API. We are going to integrate Flutter Firebase Auth API to request an OTP code, perform the OTP code verification and sign in the user in Firebase in the Flutter Chat App with Firebase.</i></li>
+  <li><a href="https://youtu.be/ua9AfnGvP3Q" target="_blank"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Flutter Firebase Phone Number Authentication</b></a><br/><i>You will learn to verify phone number using Flutter Firebase Authentication API. We are going to integrate Flutter Firebase Auth API to request an OTP code, perform the OTP code verification and sign in the user in Firebase in the Flutter Chat App with Firebase.</i></li>
 
 <li><a href="https://youtu.be/zRRCY9mJNNE"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Flutter Firebase Firestore</b></a><br/><i>You will learn how to configure Firebase Firestore (Real-Time Database) to be used in Flutter Cloud Firesotre Chat App.</i></li>
     
