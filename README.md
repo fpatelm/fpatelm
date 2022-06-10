@@ -54,12 +54,12 @@
 
 <h3>My top most viewed tutorials</h3>
 <ul>
-  <li><a href="https://youtu.be/ua9AfnGvP3Q" target="_blank"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Flutter Firebase Phone Number Authentication</b></a><br/><i>You will learn to verify phone number using Flutter Firebase Authentication API. We are going to integrate Flutter Firebase Auth API to request an OTP code, perform the OTP code verification and sign in the user in Firebase in the Flutter Chat App with Firebase.</i></li>
+  <li><a href="https://youtu.be/ua9AfnGvP3Q" target="_blank"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Flutter Firebase Phone Number Authentication</b></a><br/><i>You will learn to verify phone number using Flutter Firebase Authentication API. We are going to integrate Flutter Firebase Auth API to request an OTP code, perform the OTP code verification and sign in the user in Firebase in the Flutter Chat App with Firebase.</i></li>
 
-<li><a href="https://youtu.be/zRRCY9mJNNE"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Flutter Firebase Firestore</b></a><br/><i>You will learn how to configure Firebase Firestore (Real-Time Database) to be used in Flutter Cloud Firesotre Chat App.</i></li>
+<li><a href="https://youtu.be/zRRCY9mJNNE"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Flutter Firebase Firestore</b></a><br/><i>You will learn how to configure Firebase Firestore (Real-Time Database) to be used in Flutter Cloud Firesotre Chat App.</i></li>
     
 
-<li><a href="https://youtu.be/aKYfq-VPnMA"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />Chat Messages Flutter Firebase Firestore</b></a><br/><i>You will learn how to make queries to Firebase Cloud Firestore with filters. In this episode, we are going to engage in chat with a specific user in the people list.</i></li>
+<li><a href="https://youtu.be/aKYfq-VPnMA"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Chat Messages Flutter Firebase Firestore</b></a><br/><i>You will learn how to make queries to Firebase Cloud Firestore with filters. In this episode, we are going to engage in chat with a specific user in the people list.</i></li>
 </ul>
 
 <h3>Salesforce tutorials</h3>
@@ -68,6 +68,21 @@
 </i></li>
   
 <li><a href="https://youtu.be/bwuHbyGEu4Y"><b>Control Access to Objects in Salesforce</b></a><br/><i>Focus on Data Security and specifically on Control Access to Objects in Salesforce.</i></li>
+ 
+</ul>
+
+
+<h3>Bundle tutorials</h3>
+<ul>
+
+<li><a href="https://youtube.com/playlist?list=PLD46K4dpufBGgAwrvl2DwDSo8EHNfW4UH"><b>Modern JavaScript</b></a><br/><i>You will learn JavaScript from basics to advanced level.
+</i></li>
+  
+<li><a href="https://youtube.com/playlist?list=PLD46K4dpufBHryRDK5ljANBrdCVvjYQ21"><b>Flutter Hack</b></a><br/><i>Tips and tricks for Flutter Development</i></li>
+  
+<li><a href="https://youtube.com/playlist?list=PLD46K4dpufBEMDz5UblupcWLUiS2hFBXI"><b>Flutter Firebase Cupertino Chat App</b></a><br/><i>You will learn to build a complete Flutter Chat App with Firebase Integration.</i></li>
+  
+<li><a href="https://youtube.com/playlist?list=PLD46K4dpufBEu4uf044Nn9hFAasKVyh72"><b>Salesforce App Builder</b></a><br/><i>Everything you need to know to be a Salesforce Admin or Developer</i></li>
  
 </ul>
 
