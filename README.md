@@ -28,10 +28,10 @@
   
 </p>
 
-![Faizal](https://github.com/fpatelm/fpatelm/blob/main/certs-01.jpg)
-<!--![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner.jpg)-->
+![Faizal](https://github.com/fpatelm/fpatelm/blob/main/certs-02.jpg)
+<!--![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)-->
 
-[![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner.jpg)](https://www.youtube.com/keynotecast?sub_confirmation=1)
+[![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)](https://www.youtube.com/keynotecast?sub_confirmation=1)
 
 
 <!--<p align="center">
