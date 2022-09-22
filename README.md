@@ -35,7 +35,7 @@
 ![Faizal](https://github.com/fpatelm/fpatelm/blob/main/certs-02.jpg)
 <!--![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)-->
 
-[![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)](https://www.youtube.com/keynotecast?sub_confirmation=1)
+<!--[![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)](https://www.youtube.com/keynotecast?sub_confirmation=1)-->
 
 
 <!--<p align="center">
@@ -55,7 +55,7 @@
 - 🔭 I’m currently working on flutter app integration with .net core signal r
 - 🌱 I’m currently learning .net core with signal r
 
-
+<!--
 <h3>My top most viewed tutorials</h3>
 <ul>
   <li><a href="https://youtu.be/ua9AfnGvP3Q" target="_blank"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Flutter Firebase Phone Number Authentication</b></a><br/><i>You will learn to verify phone number using Flutter Firebase Authentication API. We are going to integrate Flutter Firebase Auth API to request an OTP code, perform the OTP code verification and sign in the user in Firebase in the Flutter Chat App with Firebase.</i></li>
@@ -86,7 +86,7 @@
   
 <li><a href="https://youtube.com/playlist?list=PLD46K4dpufBEMDz5UblupcWLUiS2hFBXI"><b>Flutter Firebase Cupertino Chat App</b></a><br/><i>You will learn to build a complete Flutter Chat App with Firebase Integration.</i></li>
   
-<li><a href="https://youtube.com/playlist?list=PLD46K4dpufBEu4uf044Nn9hFAasKVyh72"><b>Salesforce App Builder</b></a><br/><i>Everything you need to know to be a Salesforce Admin or Developer</i></li>
+<li><a href="https://youtube.com/playlist?list=PLD46K4dpufBEu4uf044Nn9hFAasKVyh72"><b>Salesforce App Builder</b></a><br/><i>Everything you need to know to be a Salesforce Admin or Developer</i></li>-->
  
 </ul>
 
