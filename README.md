@@ -38,9 +38,9 @@
 [![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)](https://www.youtube.com/keynotecast?sub_confirmation=1)
 
 
-<p align="center">
+<!--<p align="center">
   <a href="https://www.youtube.com/keynotecast">Youtube Channel</a>
-</p>
+</p>-->
   
   
 <center>
