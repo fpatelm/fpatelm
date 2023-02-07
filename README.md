@@ -32,8 +32,8 @@
   
 </p>
 
-![Faizal](https://github.com/fpatelm/fpatelm/blob/main/certs-02.jpg)
-<!--![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)-->
+<!--![Faizal](https://github.com/fpatelm/fpatelm/blob/main/certs-02.jpg)-->
+<!--![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)
 <!--
 [![Faizal](https://github.com/fpatelm/fpatelm/blob/main/banner-01.jpg)](https://www.youtube.com/keynotecast?sub_confirmation=1)
 -->
@@ -51,7 +51,7 @@
     </tr>   
   </table>
 </center>
-
+<!--
 - 🔭 I’m currently working on flutter app integration with .net core signal r
 - 🌱 I’m currently learning .net core with signal r
 
@@ -90,7 +90,7 @@
 <li><a href="https://youtube.com/playlist?list=PLD46K4dpufBEu4uf044Nn9hFAasKVyh72"><b>Salesforce App Builder</b></a><br/><i>Everything you need to know to be a Salesforce Admin or Developer</i></li>
  
 </ul>
-
+-->
 <!--
 **fpatelm/fpatelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
