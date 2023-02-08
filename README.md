@@ -1,7 +1,7 @@
 <h1> Hi there 👋! Nice to see you. </h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fpatelm.visitor-badge)
-<p>Welcome to my page!</p>
+  <!-- <p>Welcome to my page!</p>-->
 
 <h3>My coffee recipe</h3>
 <p>
