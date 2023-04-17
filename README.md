@@ -21,7 +21,7 @@
   
   
   
-  <img alt="VS Code" src="https://camo.githubusercontent.com/28d844544b515f2f83a33f7a0dba0b338b152e9fc387007a7667efd8f3aa62eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465" />
+<img alt="VS Code" src="https://camo.githubusercontent.com/28d844544b515f2f83a33f7a0dba0b338b152e9fc387007a7667efd8f3aa62eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465" />
  
   
   <!-- https://img.shields.io/badge/-Source%20Tree-blue?style=flat-square&logo=sourcetree&logoColor=white -->
@@ -41,7 +41,7 @@
   <a href="https://www.youtube.com/keynotecast">Youtube Channel</a>
 </p>-->
   
-  
+<!--   Stats
 <center>
   <table>
     <tr>
@@ -49,7 +49,9 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fpatelm&theme=dark" /></td>
     </tr>   
   </table>
-</center>
+</center> -->
+
+
 <!--
 - 🔭 I’m currently working on flutter app integration with .net core signal r
 - 🌱 I’m currently learning .net core with signal r
