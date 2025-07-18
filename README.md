@@ -6,7 +6,7 @@
 <h3>My coffee recipe</h3>
 <p>
   <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-1798c1?style=flat-square&logo=salesforce&logoColor=white" />
-  <img alt="Laravel" src="  https://img.shields.io/badge/-Laravel-1798c1?style=flat-square&logo=laravel&logoColor" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-1798c1?style=flat-square&logo=laravel&logoColor" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-52A3F2?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart&logoColor=white" />
